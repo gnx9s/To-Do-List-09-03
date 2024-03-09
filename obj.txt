@@ -1,0 +1,5 @@
+Lista de Tarefas (To-Do List):
+
+Crie uma aplicação para que os usuários possam adicionar, remover e marcar tarefas como concluídas.
+Implemente recursos como persistência de dados localmente usando "localStorage".
+Adicione funcionalidades avançadas, como agrupamento de tarefas por categoria, lembretes de prazos e filtros de pesquisa.
